@@ -6,7 +6,7 @@ target 'm17' do
   use_frameworks!
 
   # Pods for m17
+ pod 'SnapKit', '~> 5.0.0'
 
-pod 'SnapKit', '~> 5.6'
 
 end
